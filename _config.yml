@@ -19,8 +19,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   A website for Every Tom and Jerry Frame in Order
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: boidushya
+github_username:  boidushya
+facebook_username: tomandjerrybot
 
 # Build settings
 markdown: kramdown
