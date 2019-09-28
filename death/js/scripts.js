@@ -1056,7 +1056,7 @@ function getDataURLImage(){
 
 $('#save').click(function(){
 	// this.href = getDataURLImage()
-	this.download = getNameForCurrentImage("png")
+	// this.download = getNameForCurrentImage("png")
 	document.write(getDataURLImage())
 	return true
 })
@@ -1100,7 +1100,7 @@ $('a#upload').click(function(){
 
 $('#makegif').click(function(){
 	// this.href = makeGIF(context)
-	this.download = getNameForCurrentImage("gif")
+	// this.download = getNameForCurrentImage("gif")
 	document.write(makeGIF(context))
 	return true
 })
