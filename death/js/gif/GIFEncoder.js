@@ -208,7 +208,6 @@ GIFEncoder = function() {
 			templink.download=filename;
 			templink.href= URL.createObjectURL(new Blob([new Uint8Array(out.bin)], {type : "image/gif" } ));
 			templink.click();
-      document.write(templink.href)
 		}
 	}
 

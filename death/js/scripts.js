@@ -1099,9 +1099,9 @@ $('a#upload').click(function(){
 })
 
 $('#makegif').click(function(){
-	this.href = makeGIF(context)
+	// this.href = makeGIF(context)
 	// this.download = getNameForCurrentImage("gif")
-	// document.write(makeGIF(context))
+	document.write(makeGIF(context))
 	return true
 })
 $('#jsondump').click(function(){
