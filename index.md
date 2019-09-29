@@ -4,4 +4,5 @@
 
 layout: default
 ---
-Hello! My name is Boidushya, better known by the pseudonym Semolini D' Costa. I make bots on facebook and twitter (not those which hack into mainframe)
+#Hello!
+My name is Boidushya, better known by the pseudonym Semolini D' Costa. I make bots on Facebook and Twitter (not those which hack into mainframe)
