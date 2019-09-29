@@ -5,17 +5,12 @@
 layout: default
 ---
 
-#Hello Everyone!
+# Hello Everyone!
 
 My name is Boidushya, better known by the pseudonym Semolini D' Costa. I make bots on Facebook and Twitter (not those which hack into mainframe)
 
 ## If you wanna see some of my bot:
 
-* Every Tom and Jerry Frame in Order
+### Every Tom and Jerry Frame in Order
   * [Facebook](www.facebook.com/etjfo)
   * [Website](boidushya.github.io/etjfo)
-
-
-  *   This is an unordered list following a header.
-  *   This is an unordered list following a header.
-  *   This is an unordered list following a header.
