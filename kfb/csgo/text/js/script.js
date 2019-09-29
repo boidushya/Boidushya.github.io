@@ -29,3 +29,9 @@ function nameGet(){
   var p2 = getParameterByName('person2')
   put(p1,p2)
 };
+
+function genImg(){
+  html2canvas(document.getElementById('container')).then(function(canvas) {
+   document.write(canvas.toDataURL());
+ });
+};
