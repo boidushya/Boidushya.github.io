@@ -43,6 +43,11 @@ a {
   color: #00FFFF
 }
 
+.button:hover {
+  transform: scale(1.01);
+  box-shadow: 0 0 10px rgba(111, 0, 0, 0.5);
+}
+
 .killFeed {
   margin-top: 15px;
   min-width: 100px;

@@ -4,6 +4,7 @@
 
 <link href='https://fonts.googleapis.com/css?family=Rajdhani:600' rel='stylesheet' type='text/css'>
 <link href='text/css/main.css' rel='Alternate StyleSheet'>
+<script src="text/js/script.js"></script>
 
 </head>
 <body>
@@ -14,19 +15,12 @@
           background-repeat:no-repeat;
           background-size:cover;
   }
-
+  .button {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 20px;
+  }
 </style>
-<script>
-  function put(person1,person2){
-    document.getElementById("person1").innerHTML = person1
-    document.getElementById("person2").innerHTML = person2
-  }
-  function nameInp(){
-    var person1 = prompt("Please enter first name", "Adolf Hitler");
-    var person2 = prompt("Please enter last name", "Adolf Hitler")
-    put(person1,person2)
-  }
-</script>
+
 <div class="container">
   <div class="killFeed">
     <a href="" class="killer" id = 'person1'>person1</a>
@@ -36,5 +30,5 @@
     <a href="" class="killed" id = 'person2'>person2</a>
   </div>
 </div>
-
+<script>nameGet()</script>
 </html>
