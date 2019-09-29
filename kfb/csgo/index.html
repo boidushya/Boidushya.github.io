@@ -7,6 +7,7 @@
 
 </head>
 <body>
+<button onclick="nameInp()">Input names</button>
 <style>
   body {
   	background-image: url("image/bg.jpg");
@@ -16,8 +17,7 @@
 
 </style>
 <script>
-var person1 = prompt("Please enter first name", "Adolf Hitler");
-var person2 = prompt("Please enter last name", "Adolf Hitler")
+function put(){
 document.write('<div class="container">
   <div class="killFeed">
     <a href="" class="killer">'+ person1 +'</a>
@@ -27,5 +27,12 @@ document.write('<div class="container">
     <a href="" class="killed">' + person2 +'</a>
   </div>
 </div>')
+}
+function nameInp(){
+var person1 = prompt("Please enter first name", "Adolf Hitler");
+var person2 = prompt("Please enter last name", "Adolf Hitler")
+put()
+}
+
 </script>
 </html>
