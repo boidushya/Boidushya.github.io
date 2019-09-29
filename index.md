@@ -12,20 +12,20 @@ My name is Boidushya, better known by the pseudonym Semolini D' Costa. I make bo
 ## If you wanna see some of my bot:
 
 ### Every Tom and Jerry Frame in Order:
-  * [Facebook](www.facebook.com/etjfo)
-  * [Website](boidushya.github.io/etjfo)
+  * [Facebook](https://www.facebook.com/etjfo)
+  * [Website](/etjfo)
 
 ### Deep Fry Bot:
-  * [Facebook](www.facebook.com/deepfrybot)
+  * [Facebook](https://www.facebook.com/deepfrybot)
 
 ### Blessed Bot:
-  * [Facebook](www.facebook.com/blessedbot)
+  * [Facebook](https://www.facebook.com/blessedbot)
 
 ## Some other things you can try on my website:
 
 ### Sierra Death Generator:
-  * [Original Website](www.deathgenerator.com)
-  * [Cloned](boidushya.github.io/death)
+  * [Original Website](https://www.deathgenerator.com)
+  * [Cloned](/death)
 
 ### CS:GO Killfeed:
-  * [Website](boidushya.github.io/kfb/csgo)
+  * [Website](/kfb/csgo)
