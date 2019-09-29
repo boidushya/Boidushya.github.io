@@ -28,6 +28,21 @@ a {
   text-align: right;
 }
 
+.button {
+  margin-top: 15px;
+  min-width: 100px;
+  position: relative;
+  display: inline-block;
+  height: 40px;
+  background: rgba(0,0,0,0.5);
+  border: 2px #B50000 solid;
+  border-radius: 6px;
+  padding: 0 10px;
+  transform: scale(1);
+  transition: .1s;
+  color: #00FFFF
+}
+
 .killFeed {
   margin-top: 15px;
   min-width: 100px;

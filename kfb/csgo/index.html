@@ -7,7 +7,7 @@
 
 </head>
 <body>
-<button onclick="nameInp()">Input names</button>
+<button class = 'button' onclick="nameInp()">Input names</button>
 <style>
   body {
   	background-image: url("image/bg.jpg");
@@ -19,6 +19,7 @@
 <script>
   function put(person1,person2){
     document.getElementById("person1").innerHTML = person1
+    document.getElementById("person2").innerHTML = person2
   }
   function nameInp(){
     var person1 = prompt("Please enter first name", "Adolf Hitler");
