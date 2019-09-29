@@ -15,14 +15,17 @@
   }
 
 </style>
-<div class="container">
+<script>
+var person1 = prompt("Please enter first name", "Adolf Hitler");
+var person2 = prompt("Please enter last name", "Adolf Hitler")
+document.write('<div class="container">
   <div class="killFeed">
-    <a href="" class="killer">Sameer Ali</a>
+    <a href="" class="killer">'+ person1 +'</a>
     <div class="weapon usp"></div>
     <div class="headshot"></div>
     <div class="wallbang true"></div>
-    <a href="" class="killed">John F. Kennedy</a>
+    <a href="" class="killed">' + person2 +'</a>
   </div>
-</div>
-
+</div>')
+</script>
 </html>
