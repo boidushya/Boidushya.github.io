@@ -6,8 +6,8 @@ if (!empty($toptext)){
 if (!empty($bottomtext)){
 if (!empty($submitter)){
 $host = "localhost";
-$dbusername = "user";
-$dbpassword = "pass";
+$dbusername = "root";
+$dbpassword = "";
 $dbname = "demodeep";
 // Create connection
 $conn = new mysqli ($host, $dbusername, $dbpassword, $dbname);
