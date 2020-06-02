@@ -7,7 +7,7 @@ layout: default
 
 # Hello Everyone!
 
-My name is Boidushya, better known by the pseudonym Semolini D' Costa. I make bots on Facebook and Twitter (not those which hack into mainframe)
+My name is Boidushya, better known by the pseudonym Semolini D' Costa. I make bots on Facebook, Discord and Twitter and practice ML at times as well
 
 ## If you wanna see some of my bot:
 
@@ -16,10 +16,16 @@ My name is Boidushya, better known by the pseudonym Semolini D' Costa. I make bo
   * [Website](/etjfo)
 ### Feeder Bot(A custom bot for processing RSS and posting to Discord servers):
   * [Github](https://github.com/Boidushya/feeder)
-  * Email me [here](mailto:boidushyabhattacharya@gmail.com?Subject=CUSTOM%20FEEDER%REQUEST) or DM me on Discord (boidushya#2344) if you want me to customize it for your discord server
+  * Email me [here](mailto:boidushyabhattacharya@gmail.com?Subject=CUSTOM%20FEEDER%REQUEST) or DM me on Discord (semolini#2344) if you want me to customize it for your discord server
 ### Deep Fry Bot:
   * [Facebook](https://www.facebook.com/deepfrybot)
-
+  *	[Discord](https://top.gg/bot/643053446211043339)
+### Count Bot 0123:
+  * [Facebook](https://www.facebook.com/countbot/)
+### Unmanned Cringe Bot:
+  * [Facebook](https://www.facebook.com/ucringefest)
+### DanceBot:
+  * [Facebook](https://www.facebook.com/DanceBotEpic)
 ### Blessed Bot:
   * [Facebook](https://www.facebook.com/blessedbot)
 
@@ -31,3 +37,15 @@ My name is Boidushya, better known by the pseudonym Semolini D' Costa. I make bo
 
 ### CS:GO Killfeed:
   * [Website](/kfb/csgo)
+
+## Special Mentions:
+
+### How to make a Facebook Bot (tutorial):
+  * [Website](https://botappreciationsociety.fandom.com/wiki/Creating_a_Bot/Python)
+
+### News Bot 1926:
+  * The script for article generation was written by me, I used GPT-2 355M model to train sample news articles NewsBot admin and me scraped from various actual/satire news sites
+  * [Website](https://newsbotlab.com/)
+  * [Facebook](https://www.facebook.com/NewsBot1926/)
+  * [Twitter](https://twitter.com/bot1926)
+### 
