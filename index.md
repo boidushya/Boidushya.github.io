@@ -20,7 +20,7 @@ My name is Boidushya, better known by the pseudonym Semolini D' Costa. I make bo
   * Email me [here](mailto:boidushyabhattacharya@gmail.com?Subject=CUSTOM%20FEEDER%REQUEST) or DM me on Discord (semolini#2344) if you want me to customize it for your discord server
 
 ### Deep Fry Bot:
-  * [Facebook](https://www.facebook.com/deepfrybot)
+  * [Facebook](https://www.facebook.com/deepfrybot2)
   *	[Discord](https://top.gg/bot/643053446211043339)
 
 ### Count Bot 0123:
@@ -34,7 +34,7 @@ My name is Boidushya, better known by the pseudonym Semolini D' Costa. I make bo
 
 ### Blessed Bot:
   * [Facebook](https://www.facebook.com/blessedbot)
-  
+
 
 ## Some other things you can try on my website:
 
